@@ -1,0 +1,37 @@
+body{
+    
+    background-image: linear-gradient(to right, rgb(243, 203, 116) , rgb(255, 166, 0));
+}
+
+h1 {
+    font-family: Play, sans-serif ;
+    font-size: 6rem;
+    text-align: center;
+
+    color: rgb(11, 68, 92);
+  }
+.button {
+    background-color: #adb4ad; 
+    border: none;
+    color: rgb(0, 17, 255);
+    height:50px; 
+    width:100px; 
+    margin: auto; 
+    position:relative;
+    top:50%; 
+    left:50%;
+
+}
+
+.raport {
+    font-family: 'Sourcre Code Pro', monospace;
+    color: ivory;
+    text-align: justify;
+    margin: auto;
+    width: 50%;
+    background-color: rgb(48, 46, 46);
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+
+
+}
